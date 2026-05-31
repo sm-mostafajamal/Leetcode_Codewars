@@ -39,8 +39,8 @@ public class Solution
     }
 }
 
-var sol = new Solution();
+// var sol = new Solution();
 
-var ops = new string[] { "5","-2","4","C","D","9","+","+" }; // 27 
+// var ops = new string[] { "5","-2","4","C","D","9","+","+" }; // 27 
 
-Console.WriteLine(sol.CalPoints(ops));
+// Console.WriteLine(sol.CalPoints(ops));
