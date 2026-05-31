@@ -16,9 +16,9 @@ public class Solution
     }
 }
 
-var sol = new Solution();
+// var sol = new Solution();
 
-var nums = new int[] { 2, 5, 1, 3, 4, 7 }; // [2,3,5,4,1,7] 
-var result = sol.Shuffle(nums, 3);
+// var nums = new int[] { 2, 5, 1, 3, 4, 7 }; // [2,3,5,4,1,7] 
+// var result = sol.Shuffle(nums, 3);
 
-Console.WriteLine(string.Join(", ", result));
+// Console.WriteLine(string.Join(", ", result));
