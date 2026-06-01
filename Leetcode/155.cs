@@ -40,6 +40,7 @@ public class MinStack
         return _minStack[_minStack.Count - 1];
     }
 }
+/* 
 MinStack minStack = new MinStack();
 
 // stack is now empty
@@ -60,3 +61,5 @@ minStack.Pop();
 Console.WriteLine(minStack.GetMin()); // -2
 
 minStack.Pop();
+
+*/
